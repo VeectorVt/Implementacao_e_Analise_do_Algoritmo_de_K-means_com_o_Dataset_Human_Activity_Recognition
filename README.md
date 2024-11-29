@@ -1,0 +1,1 @@
+# Implementacao_e_Analise_do_Algoritmo_de_K-means_com_o_Dataset_Human_Activity_Recognition
