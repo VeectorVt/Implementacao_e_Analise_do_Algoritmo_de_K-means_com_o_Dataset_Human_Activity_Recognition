@@ -26,6 +26,7 @@ O código irá calcular métricas como o Silhouette Score e a Inércia para aval
 O script exibe gráficos interativos (2D e 3D) usando PCA (redução de dimensionalidade) para mostrar a distribuição dos clusters.
 A análise de métricas, como o Silhouette Score, é apresentada ao final para indicar a qualidade do agrupamento.
 
+OBS: Outra alternativa é rodar o código usando o google collab configurado para o python.
 
 # Estrutura dos Arquivos
 ├── Implementação_e_Análise_do_Algoritmo_de_K_means_com_o_Dataset_Human_Activity_Recognition.ipynb  # Código principal do projeto
