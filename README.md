@@ -53,4 +53,6 @@ A distribuição das atividades nos clusters será exibida, mostrando como as di
 # Autores e Colaboradores
 
 Victor César do Rosário Calheiros: Pré-processamento e análise exploratória de dados, implementação dos modelos de aprendizado de máquina.
+
+
 Daniel de Souza Pereira: Desenvolvimento de visualizações e métricas de avaliação.
